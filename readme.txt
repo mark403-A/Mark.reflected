@@ -10,6 +10,6 @@ sudo apt install -y /tmp/google-chrome.deb
 python3 2xss.py -u "https://www.santvalves.com/?post_type=valves&s=batman" -p /mnt/d/offensive\ payloads/xss-payload/xsspollygots.txt --selenium --headless  --skip-not-reflected-parameter 
 
 
- How to use for single Multiple URL example:
+ How to use for  Multiple URL example:
 
 python3 2xss.py -m URL-file  -p /mnt/d/offensive\ payloads/xss-payload/xsspollygots.txt --selenium --headless  --skip-not-reflected-parameter
